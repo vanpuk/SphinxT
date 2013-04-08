@@ -8,12 +8,12 @@ This is how you writh **bold**
 
 This is how you write *italics*
 
-This is how you fo a hyperlink: http//google.com
+This is how you fo a hyperlink: http://google.com
 
 A bullet list:
 
-# Item foo
-# Item bar
+* Item foo
+* Item bar
 
 A number list:
 #. Item one
