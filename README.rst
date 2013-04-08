@@ -1,8 +1,8 @@
 Hello World!
 =============
 
-It was nice to meet you
------------------------
+Basic markup
+------------
 
 This is how you writh **bold**
 
@@ -16,8 +16,17 @@ A bullet list:
 * Item bar
 
 A number list:
+
 #. Item one
 #. Item two
+
+Here is how to make a single table:
+
++-----------------+-------------------+
+| Name            | Job               |
++-----------------+-------------------+
+| Tim             | CEO               |
++-----------------+-------------------+
 
 This is how you sho a program listing or some preformatted text::
 
